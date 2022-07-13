@@ -1,0 +1,32 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+.display-points {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 60px;
+  color: palevioletred;
+}
+img {
+  width: 10%;
+}
+.button {
+  background-color: #4e7262;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 12px;
+}
+.button:hover {opacity: 1}

@@ -1,0 +1,16 @@
+{
+  "name": "js-web",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "js-confetti": "^0.10.2"
+  }
+}
